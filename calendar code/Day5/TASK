@@ -1,0 +1,4 @@
+TASK1: Trovare rowID e colID con sequenze B e F di limiti inferiori e superiori. Es: si trova nella prima metà inferiore, poi si trova nella seconda metà superiore ecc. Trovare il valore massimo dell'ID
+
+
+TasK2: Trovare il mio ID sapendo che è l'unico che manca nella lista

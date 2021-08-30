@@ -1,0 +1,7 @@
+TASK1: codici alfabetici divisi in gruppi da \n\n. Bisogna trovare il gli elementi distinti all'interno di ogni gruppo e fare la somma totale
+
+SOL1: qui ho mostrato come non si risolve un problema. soluzione complicatissima da migliorare fatta di cicli di for un sopra l'altro che si confondevano tra di loro, credevo che fosse il problema più semplice invece è stato quello che mi ha richiesto più tempo
+
+TASK2 invece di elementi distinti, gli elementi comuni, se anche uno solo non ce li ha non va contato.
+
+ Teoricamente doveva essere una variazione del compito precendente, invece ne sono venuto fuori solo dopo aver googlato come prendere gli elementi in comune--> (list(set(i for i in gruppo if gruppo.count(i) == len(el))), una bestemmia. Voglio vedere come l'hanno risolto gli altri che così mi risparmio il casino che ho fatto in futuro.

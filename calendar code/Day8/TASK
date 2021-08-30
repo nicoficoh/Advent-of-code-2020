@@ -1,0 +1,3 @@
+TASK1:Trovare la somma di accumulation (acc) poco prima che il programma vada in un loop.
+
+TASK2: Trovare il valore di accumulation switchando uno ed uno solo 'jmp' ad 'nop' o viceversa in modo tale che il programma non vada in loop.

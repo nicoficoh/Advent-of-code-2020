@@ -1,0 +1,9 @@
+TASK1: trovare quante password sono valide seguendo il metodo dettato da ogni riga: l'intervallo di conteggi della lettera nella password
+
+Prima parte divido con split poi conto le ripetizioni delle letterae se sono compresi entro il limite maggiore minore (con AND) s+=1
+
+TASK2: il numero invece di essere un intervallo è la posizione (a partire da 1) in cui le lettere si devono trovare, non devono essere
+contemporaneamente uguali
+
+con i dati di prima utilizzo l'operatore OR sulla posizione
+Il risultato però mi viene sbagliato di 1 ):

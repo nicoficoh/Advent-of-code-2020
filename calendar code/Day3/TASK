@@ -1,0 +1,5 @@
+TASK1: con un aereo ipotetico che scende di uno e va a destra di tre quanti alberi incontro (#)?
+
+SOL1: Con un ciclo for per elemento, SE: la posizione è maggiore della riga -3 allora togli la n posizioni (come se incominciasse da sinistra). In caso contrario semplicemente aggiungi tre posizioni. Poi conti gli alberi con un contatore
+
+TasK2: come il primo ma in condizioni diverse, per il caso in cui l'aereo scende di due e va destra di uno ho utilizzato un range con passo di 2.
